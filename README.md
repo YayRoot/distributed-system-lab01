@@ -68,6 +68,11 @@ fetch('http://localhost:5000/api/history', { method: 'DELETE' })
 ```
 
 ---
+## Screenshot
+<img width="1919" height="1064" alt="Screenshot_20261015_161710" src="https://github.com/user-attachments/assets/25f28394-88d7-4b5b-9481-e01484ebf8cb" />
+
+
+---
 
 ## Author
 
